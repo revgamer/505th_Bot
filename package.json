@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "RevGamer",
   "license": "ISC",
-  "description": "",
+  "description": "Cortana Bot for 505th Expeditionary Force, Its have Message Logger, Members Logger, Purge command, Say Command and Annouce Command",
   "dependencies": {
     "chalk": "^4.1.2",
     "discord.js": "^14.19.3",
