@@ -12,7 +12,7 @@ module.exports = {
 
   async execute(interaction) {
     try {
-      const allowedRoleId = '1383875115024126154';
+      const allowedRoleId = '1383865121964560464';
       const amount = interaction.options.getInteger('amount');
 
       if (!interaction.member.roles.cache.has(allowedRoleId)) {
